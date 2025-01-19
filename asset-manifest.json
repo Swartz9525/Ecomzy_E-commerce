@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ecomzy_E-commerce/static/css/main.d32fc908.css",
-    "main.js": "/Ecomzy_E-commerce/static/js/main.ed0133f8.js",
-    "static/js/453.41bee3f9.chunk.js": "/Ecomzy_E-commerce/static/js/453.41bee3f9.chunk.js",
-    "static/media/logo.svg": "/Ecomzy_E-commerce/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Ecomzy_E-commerce/index.html",
-    "main.d32fc908.css.map": "/Ecomzy_E-commerce/static/css/main.d32fc908.css.map",
-    "main.ed0133f8.js.map": "/Ecomzy_E-commerce/static/js/main.ed0133f8.js.map",
-    "453.41bee3f9.chunk.js.map": "/Ecomzy_E-commerce/static/js/453.41bee3f9.chunk.js.map"
+    "main.css": "/static/css/main.d32fc908.css",
+    "main.js": "/static/js/main.191ad055.js",
+    "static/js/453.41bee3f9.chunk.js": "/static/js/453.41bee3f9.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.d32fc908.css.map": "/static/css/main.d32fc908.css.map",
+    "main.191ad055.js.map": "/static/js/main.191ad055.js.map",
+    "453.41bee3f9.chunk.js.map": "/static/js/453.41bee3f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d32fc908.css",
-    "static/js/main.ed0133f8.js"
+    "static/js/main.191ad055.js"
   ]
 }
